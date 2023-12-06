@@ -9,7 +9,7 @@ import SearchFilter from "./teme/tema6/SearchFilter";
 function App() {
   return (
     <div className="container">
-      <Counter />
+      <CharacterCounter />
     </div>
   );
 }
